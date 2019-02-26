@@ -64,7 +64,7 @@
     <Compile Include="Assets\script\Laser.cs" />
     <Compile Include="Assets\script\menuButtons.cs" />
     <Compile Include="Assets\script\Player.cs" />
-    <None Include="Assets\menu\PNG\Shaders\Galaxy.shader" />
+    <None Include="Assets\Arts\PNG\Shaders\Galaxy.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/aaman/OneDrive/Área de Trabalho/Unity_Project/Battle of the galaxy/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
