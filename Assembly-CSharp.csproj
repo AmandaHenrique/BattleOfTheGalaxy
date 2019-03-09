@@ -61,9 +61,27 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\script\Laser.cs" />
-    <Compile Include="Assets\script\menuButtons.cs" />
+    <Compile Include="Assets\script\Asteroid.cs" />
+    <Compile Include="Assets\script\BackgorundMusic.cs" />
+    <Compile Include="Assets\script\Creditos.cs" />
+    <Compile Include="Assets\script\destroyExplode.cs" />
+    <Compile Include="Assets\script\Enemies.cs" />
+    <Compile Include="Assets\script\EnemyOne.cs" />
+    <Compile Include="Assets\script\EnemyTwo.cs" />
+    <Compile Include="Assets\script\Galaxy.cs" />
+    <Compile Include="Assets\script\LaserEnemies.cs" />
+    <Compile Include="Assets\script\LaserPlayer.cs" />
+    <Compile Include="Assets\script\Lasers.cs" />
+    <Compile Include="Assets\script\LoadScene.cs" />
+    <Compile Include="Assets\script\Planets.cs" />
     <Compile Include="Assets\script\Player.cs" />
+    <Compile Include="Assets\script\PowerUp.cs" />
+    <Compile Include="Assets\script\ScrollingBackground.cs" />
+    <Compile Include="Assets\script\Spawn.cs" />
+    <Compile Include="Assets\script\UI.cs" />
+    <Compile Include="Assets\script\UIMenu.cs" />
+    <Compile Include="Assets\Zero Rare\Retro Sound Effects\Demo\Demo.cs" />
+    <None Include="Assets\Complete Music Collection FREE Edition\readme.txt" />
     <None Include="Assets\Arts\PNG\Shaders\Galaxy.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/aaman/OneDrive/Área de Trabalho/Unity_Project/Battle of the galaxy/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

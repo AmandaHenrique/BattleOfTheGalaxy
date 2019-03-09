@@ -4,7 +4,16 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Enemy
+  - LaserPlayer
   - Laser
+  - LaserEnemy
+  - Armor
+  - Hp
+  - Speed
+  - FastShoot
+  - Bonus
+  - Projectile
   layers:
   - Default
   - TransparentFX
@@ -41,4 +50,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: 0
+    uniqueID: 3585996079
     locked: 0
